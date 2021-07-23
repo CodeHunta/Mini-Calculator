@@ -1,0 +1,29 @@
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+span {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blueviolet;
+    font-weight: bolder;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
